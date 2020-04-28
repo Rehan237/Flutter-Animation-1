@@ -1,6 +1,10 @@
-# learn_flutter
+# Animation 1
 
-A new Flutter application.
+A nice flutter Radical Animation with three different type of radical effects.
+Using:
+Transform,
+Stack,
+AnimationController,
 
 ## Getting Started
 
